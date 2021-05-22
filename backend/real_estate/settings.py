@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     'accounts.apps.AccountsConfig',
     'realtors.apps.RealtorsConfig',
     'listings.apps.ListingsConfig',
+    'contacts.apps.ContactsConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
@@ -89,6 +90,13 @@ DATABASES = {
         'HOST': 'localhost'
     }
 }
+
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_HOST = 'smtp.gmail.com'
+EMAIL_POST = 587
+EMAIL_HOST_USER = 'msdianuc07@gmail.com'
+EMAIL_HOST_PASSWORD = 'xarpnnombftbqefy'
+EMAIL_HOST_TLS = True
 
 
 # Password validation
