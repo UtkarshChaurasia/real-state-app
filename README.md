@@ -8,7 +8,7 @@ A full stack Real Estate website.
 
 - Built backend APIs.
 - Tested APIs using Postman.
-- Used JSON web based token for authentication.
+- Used JSON web token for authentication.
 - Integrated PostgreSQL Database.
 - Frontend is in development phase.
 
