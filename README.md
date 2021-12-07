@@ -1,6 +1,6 @@
 # 🌐 REAL ESTATE WEBSITE
 
-A full stack Real Estate website.
+A Backend system of Real Estate website.
 
 ---
 
