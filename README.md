@@ -30,10 +30,12 @@ These screenshots are of API testing on Postman and will be replaced with final 
 
 ### Accounts
 <img src="media/images/1.png"/>
+
 ### Agents
 <img src="media/images/2.png"/>
 <img src="media/images/3.png"/>
 <img src="media/images/4.png"/>
+
 ### Listings
 <img src="media/images/6.png"/>
 <img src="media/images/7.png"/>
