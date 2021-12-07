@@ -16,8 +16,6 @@ A Backend system of Real Estate website.
 
 ## :bulb: Built Using
 
-- [**REACTJS**](https://reactjs.org/)
-- [**REDUX**](https://redux.js.org/)
 - [**DJANGO REST FRAMEWORK**](https://www.django-rest-framework.org/)
 - [**POSTGRESQL**](https://www.postgresql.org/)
 - [**POSTMAN**](https://www.postman.com/)
